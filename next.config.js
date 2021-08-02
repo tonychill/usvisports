@@ -1,3 +1,5 @@
 module.exports = {
-  reactStrictMode: true,
+  reactStrictMode: true,images: {
+    domains: ["cdn.devdojo.com"],
+  },
 }
